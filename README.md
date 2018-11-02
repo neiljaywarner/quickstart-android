@@ -33,7 +33,3 @@ the sample you wish to run.
 - [Performance Monitoring](perf/README.md)
 - [Storage](storage/README.md)
 
-## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
-
-[![Build Status](https://travis-ci.org/firebase/quickstart-android.svg?branch=master)](https://travis-ci.org/firebase/quickstart-android)
