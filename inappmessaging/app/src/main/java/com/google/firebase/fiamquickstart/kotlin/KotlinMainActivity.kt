@@ -43,6 +43,9 @@ class KotlinMainActivity : AppCompatActivity() {
                         Log.d(TAG, "InstanceId: $instanceId")
                     }
                 })
+
+
+        // TODO: add on fail listener to
     }
 
     companion object {
